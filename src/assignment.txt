@@ -1,0 +1,31 @@
+========================================================================================
+Imagine I have a RECORD which contains text information and multiple images
+
+Key and Value
+Name  
+Surname 
+Age
+Company 
+
+pic 1 pic 2 pic3 pic4
+
+========================================================================================
+
+Assignment is to refer the attached images and follow the below instructions
+
+
+There are three parts shown in the attached images
+Center part
+Bottom Pane
+Right Pane
+
+Center pane will only display the selected image from the bottom pane
+
+bottom pane should show collection of thumbnails images clicking on which will show the images in the center pane
+
+right pane contains textual information related to the images in key value format along with add and edit button
+
+both right pane and bottom pane should be shrinkable, once shrinked the center pane should expand
+
+you can use any images 
+========================================================================================
